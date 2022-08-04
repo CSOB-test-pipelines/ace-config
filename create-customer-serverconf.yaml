@@ -1,2 +1,2 @@
 Defaults:
-#  policyProject: 'create-customer-policy'
+  policyProject: 'create-customer-policy'
